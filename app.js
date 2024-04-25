@@ -24,7 +24,7 @@
 // if( hW === "hellow world"){
 //    var indN = hW.indexOf("d");
 //    document.write("The index of 'l' in the word '' is:hellow world " + indN);
-// } 
+// }  
 // //task five
 // var word = ("pakistai")
 // var cheractor = word.charAt(3)
